@@ -308,9 +308,15 @@
                 }
             }
             
-            var totalInterval = Math.floor( ( ( odometerCurrentHour ) * 12 ) + ( odometerCurrentMinute / 5 ) ) ;
-
-		var temp = 0 ;
+                  
+	    var newCurrentDateString = new Date() ;
+            var newCurrentHour = newCurrentDateString.getHours() ;
+            var newCurrentMinute = newCurrentDateString.getMinutes() ;
+                    
+            var totalInterval = Math.floor( ( ( newCurrentHour ) * 12 ) + ( newCurrentMinute / 5 ) ) ;
+	    for( var z = 288 ; z > totalInterval + 1 ; z -- ) {
+                $( "tr" ).eq(z).hide();  
+            }
             
         </script>
         <script>
