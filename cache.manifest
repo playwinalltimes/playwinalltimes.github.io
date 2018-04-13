@@ -5,6 +5,8 @@ CACHE:
 
 NETWORK:
 index.html
+result.js
+result.html
 
 *
 
