@@ -1,13 +1,11 @@
 CACHE MANIFEST
-# 2018-04-08:V1.0
+# 2018-04-08:V1.2
 
 CACHE:
 
 NETWORK:
 index.html
-result.js
+https://playwinalltimes.github.io/result.js
 result.html
-
-*
 
 FALLBACK:
