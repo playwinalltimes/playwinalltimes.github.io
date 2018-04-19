@@ -1,4 +1,4 @@
-var resultData =
+var resultData =[
 ['2018-04-20',
         
         [
