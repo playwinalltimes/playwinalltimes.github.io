@@ -2,6 +2,7 @@ var resultData = [
         
 
 ['2018-04-21',
+             [
                 /* TIME */
 
                 /* 12 AM */ 
