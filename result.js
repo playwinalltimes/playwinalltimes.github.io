@@ -1,6 +1,6 @@
 var resultData = ['2018-04-22',
         
-        [
+          ],
                 /* TIME */
 
                 /* 12 AM */ 
