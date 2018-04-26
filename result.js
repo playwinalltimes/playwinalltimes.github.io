@@ -1,4 +1,5 @@
-var resultData = ['2018-04-26',
+var resultData = [
+        ['2018-04-26',
         
         [
                 /* TIME */
