@@ -412,7 +412,7 @@ var resultData = [
         ]
         
 ],
-© 2018 GitHub, Inc.
+
         ['2018-04-25',
         
         [
