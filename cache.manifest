@@ -1,5 +1,6 @@
 CACHE MANIFEST
 # 2018-05-17 Bug Fixes - [Bracket error and same dates repeated] 9:19PM
+# 2018-05-18 Bug Fixes - [Comma missed] 11:41PM
 
 
 CACHE:
@@ -10,5 +11,3 @@ https://playwinalltimes.github.io/result.js
 result.html
 
 FALLBACK:
-R
-P
