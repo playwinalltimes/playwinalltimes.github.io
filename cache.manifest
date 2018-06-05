@@ -1,26 +1,15 @@
-GCACHE MANIFEST
+CACHE MANIFEST
 # 2018-05-17 Bug Fixes - [Bracket error and same dates repeated] 9:19PM
 # 2018-05-18 Bug Fixes - [Comma missed] 11:41PM
-YMm
-B.
-CACHE:M
+# 2018-06-06 Bug Fixes - [Date mistake and manifest file has been ruined]
+
+
+
+CACHE:
 
 NETWORK:
 index.html
 https://playwinalltimes.github.io/result.js
 result.html
-4 
+
 FALLBACK:
-GG
-DRB
-TK.RV
-Y
-Y
-JJGHT
-6F
-RHD
-G
-G
-KH
-HU
-G
